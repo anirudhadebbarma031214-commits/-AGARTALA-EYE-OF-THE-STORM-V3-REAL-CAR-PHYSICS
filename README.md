@@ -1,0 +1,2 @@
+# AGARTALA - EYE OF THE STORM
+Godot 4.3 prototype. Press Enter six times to manually install garage parts, then arrows/WASD drive; Space brakes; E deploys anchors when nearly stopped; F charges the fictional storm disruptor near the tornado. This is a simple stylized prototype, not cinematic-quality graphics. To get Windows EXE, open Actions > Build Windows EXE > latest successful run > artifact.
